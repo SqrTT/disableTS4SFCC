@@ -1,0 +1,25 @@
+{
+  "name": "disablets4sfcc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SqrTT/disableTS4SFCC.git"
+  },
+  "author": {
+    "name": "Anatolii Obitskyi",
+    "email": "tolik@sqrtt.pro"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SqrTT/disableTS4SFCC/issues"
+  },
+  "homepage": "https://github.com/SqrTT/disableTS4SFCC#readme",
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  }
+}
